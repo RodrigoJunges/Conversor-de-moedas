@@ -1,0 +1,3 @@
+/*constante criada = document é no html. querySelector é buscar o botão no site*/
+const convertButton = document.querySelector(".convert-button")
+console.log(convertButton)/*para mostrar no console no navegador que está sendo clicada e funcionando o botão*/
